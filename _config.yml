@@ -1,8 +1,0 @@
----
-name: "The Akhera Project"
-markdown: redcarpet
-pygments: false
-menu:
- - index
- - about
----
